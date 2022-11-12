@@ -8,6 +8,8 @@ The idea of mean filtering is to replace each pixel value in an image with the m
 
 ![image](https://user-images.githubusercontent.com/74067343/201121571-50d25c73-5a8e-46c3-bc54-a242893c11dd.png)
 
+Run..
+
 ![image](https://user-images.githubusercontent.com/74067343/201121666-36975502-0c8e-423e-9cc2-5c69ac2a1ead.png)
 
 
@@ -17,6 +19,8 @@ The idea of mean filtering is to replace each pixel value in an image with the m
 In Median Filtering, for example, let's say we have a 3x3 matrix. These matrices are ordered starting from one edge and the most common value in the order is now the middle value of our matrix.
 
 ![image](https://user-images.githubusercontent.com/74067343/201121709-0ba0bb35-da76-42b4-aa91-dfad22409b8e.png)
+
+Run..
 
 ![image](https://user-images.githubusercontent.com/74067343/201121743-5744a28b-bb21-4569-a372-af01d2b38e8a.png)
 
